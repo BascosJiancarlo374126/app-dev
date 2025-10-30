@@ -7,7 +7,9 @@ My Favorite Movie
 [Official Trailer on YouTube] (https://www.youtube.com/watch?v=AX2uz2XYkbo)
 
 
-==Ray Kroc, a struggling salesman, discovers a small but efficient burger restaurant in San Bernardino.==
+> ## 🧠 Plot Summary
+> **Ray Kroc**, a struggling salesman, discovers a small but efficient burger restaurant in **San Bernardino**.  
+> He sees its potential and turns **McDonald’s** into one of the most successful franchises in the world.
 
 
 ### Table Of my fav Movie 
